@@ -11,3 +11,9 @@ pip install -r requirements
 ```bash
 python benchmark.py
 ```
+
+# Build plots
+
+```bash
+python plot.py
+```
